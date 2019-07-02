@@ -18,3 +18,8 @@ for f in filter_wide:
             if url[-5:] == str(".fits"):
                 file = "data/" + f + "/" + str(url[50:])
                 urllib.request.urlretrieve(url,file)
+ 
+#This code will download all fits images with filters F555W and F606W. 
+#For our network were select 174 images from all images
+#Training dataset available on https://drive.google.com/open?id=1STjsuQ2_OSGrueLFwVTNp-oO94DAPqe2
+#Validation dataset available on https://drive.google.com/open?id=1o2lI_O2e4H8tYUCNUlZOUWNnV8r6chiD
