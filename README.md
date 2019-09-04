@@ -1,2 +1,2 @@
 # Astro-U-net
-<p align="center"><img src="Images/star_detection_aper10/11700_2t*1/Original_11700_2t*1.png" height="300px"></p>
+<p align="center"><img src="img.png" height="300px"></p>
