@@ -22,6 +22,7 @@ from photutils import DAOStarFinder
 import math
 os.environ['CUDA_DEVICE_ORDER'] = 'PCI_BUS_ID'
 os.environ['CUDA_VISIBLE_DEVICES'] = str(4)  # The id of your GPU
+# weights avaible here https://drive.google.com/open?id=1I2GxwSX-yDUEJVuSgOov32-Lz81cwdiS
 
 file_name = './image/eval.txt'
 test_net = './image/'
