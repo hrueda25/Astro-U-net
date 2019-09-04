@@ -25,7 +25,7 @@ os.environ['CUDA_VISIBLE_DEVICES'] = str(4)  # The id of your GPU
 
 file_name = './image/eval.txt'
 test_net = './image/'
-checkpoint_dir = './weight/'
+checkpoint_dir = './weight1/'
 ps = 256  # patch size for training
 
 
