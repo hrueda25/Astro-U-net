@@ -23,10 +23,9 @@ import math
 os.environ['CUDA_DEVICE_ORDER'] = 'PCI_BUS_ID'
 os.environ['CUDA_VISIBLE_DEVICES'] = str(4)  # The id of your GPU
 
-folder_num = str(36)
 file_name = './image/eval.txt'
 test_net = './image/'
-checkpoint_dir = './weight/
+checkpoint_dir = './weight2/
 ps = 256  # patch size for training
 
 
