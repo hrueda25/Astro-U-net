@@ -4,7 +4,7 @@
 
 
 <p float="left">
-  <img src="network1/network1.gif" width="250" />
-  <img src="network2/network2.gif" width="250" /> 
+  <img src="network1/network1.gif" height="250px/>
+  <img src="network2/network2.gif"height="250px /> 
   
 </p>
