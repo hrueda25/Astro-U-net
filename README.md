@@ -3,7 +3,7 @@
 
 
 
-<p float="left">
+<p float="lenter">
   <img src="network1/network1.gif" width="400"/>
   <img src="network2/network2.gif" width="400" /> 
   
